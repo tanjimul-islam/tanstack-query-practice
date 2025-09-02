@@ -5,7 +5,7 @@ import ProductDetails from "./components/ProductDetails";
 import Products from "./components/Products";
 
 function App() {
-  const [selectedProduct, setSelectedProduct] = useState(null);
+  const [selectedProduct, setSelectedProduct] = useState(6);
   const handleSelectProduct = (productId) => {
     setSelectedProduct(productId);
   };

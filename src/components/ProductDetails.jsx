@@ -16,7 +16,6 @@ const ProductDetails = ({ selectedProductId }) => {
     queryKey: ["products", selectedProductId],
     queryFn: retrieveProduct,
   });
-  console.log(product, error, isLoading);
   return selectedProductId ? (
     <div className="w-full px-6">
       <div className="flex flex-col gap-6">
