@@ -1,6 +1,5 @@
 import { useState } from "react";
 import AddProduct from "./components/AddProduct";
-import Pagination from "./components/Pagination";
 import ProductDetails from "./components/ProductDetails";
 import Products from "./components/Products";
 
@@ -36,7 +35,6 @@ function App() {
             </div>
           </div>
         </div>
-        <Pagination />
       </div>
     </>
   );
