@@ -1,8 +1,8 @@
 const AddProduct = () => {
   return (
-    <div className="flex flex-col justify-between bg-white">
-      <form className="md:px-10 max-w-lg">
-        <div className="flex flex-col gap-1 max-w-md mb-4">
+    <div className="flex flex-col w-full bg-white">
+      <form className="md:px-10 ">
+        <div className="flex flex-col gap-1 mb-4">
           <label className="text-base font-medium" htmlFor="product-name">
             Product Name
           </label>
@@ -14,7 +14,7 @@ const AddProduct = () => {
             required
           />
         </div>
-        <div className="flex flex-col gap-1 max-w-md mb-4">
+        <div className="flex flex-col gap-1 mb-4">
           <label
             className="text-base font-medium"
             htmlFor="product-description"
@@ -28,7 +28,7 @@ const AddProduct = () => {
             placeholder="Product Description"
           ></textarea>
         </div>
-        <div className="flex flex-col gap-1 max-w-md mb-4">
+        <div className="flex flex-col gap-1 mb-4">
           <label className="text-base font-medium" htmlFor="product-price">
             Product Price
           </label>
@@ -40,7 +40,7 @@ const AddProduct = () => {
             required
           />
         </div>
-        <div className="flex flex-col gap-1 max-w-md mb-4">
+        <div className="flex flex-col gap-1 mb-4">
           <label className="text-base font-medium" htmlFor="thumbnail-url">
             Thumbnail URL
           </label>

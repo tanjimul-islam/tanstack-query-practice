@@ -9,10 +9,7 @@
       "discountPercentage": 1.89,
       "rating": 4.37,
       "stock": 29,
-      "tags": [
-        "fragrances",
-        "perfumes"
-      ],
+      "tags": ["fragrances", "perfumes"],
       "brand": "Calvin Klein",
       "sku": "FRA-CAL-CAL-006",
       "weight": 7,
@@ -71,10 +68,7 @@
       "discountPercentage": 16.51,
       "rating": 4.26,
       "stock": 58,
-      "tags": [
-        "fragrances",
-        "perfumes"
-      ],
+      "tags": ["fragrances", "perfumes"],
       "brand": "Chanel",
       "sku": "FRA-CHA-CHA-007",
       "weight": 7,
@@ -133,10 +127,7 @@
       "discountPercentage": 14.72,
       "rating": 3.8,
       "stock": 98,
-      "tags": [
-        "fragrances",
-        "perfumes"
-      ],
+      "tags": ["fragrances", "perfumes"],
       "brand": "Dior",
       "sku": "FRA-DIO-DIO-008",
       "weight": 4,
@@ -195,10 +186,7 @@
       "discountPercentage": 0.62,
       "rating": 3.96,
       "stock": 4,
-      "tags": [
-        "fragrances",
-        "perfumes"
-      ],
+      "tags": ["fragrances", "perfumes"],
       "brand": "Dolce & Gabbana",
       "sku": "FRA-DOL-DOL-009",
       "weight": 6,
@@ -257,10 +245,7 @@
       "discountPercentage": 14.39,
       "rating": 2.74,
       "stock": 91,
-      "tags": [
-        "fragrances",
-        "perfumes"
-      ],
+      "tags": ["fragrances", "perfumes"],
       "brand": "Gucci",
       "sku": "FRA-GUC-GUC-010",
       "weight": 7,
@@ -319,10 +304,7 @@
       "discountPercentage": 8.57,
       "rating": 4.77,
       "stock": 88,
-      "tags": [
-        "furniture",
-        "beds"
-      ],
+      "tags": ["furniture", "beds"],
       "brand": "Annibale Colombo",
       "sku": "FUR-ANN-ANN-011",
       "weight": 10,
@@ -381,10 +363,7 @@
       "discountPercentage": 14.4,
       "rating": 3.92,
       "stock": 60,
-      "tags": [
-        "furniture",
-        "sofas"
-      ],
+      "tags": ["furniture", "sofas"],
       "brand": "Annibale Colombo",
       "sku": "FUR-ANN-ANN-012",
       "weight": 6,
@@ -443,10 +422,7 @@
       "discountPercentage": 19.09,
       "rating": 2.87,
       "stock": 64,
-      "tags": [
-        "furniture",
-        "bedside tables"
-      ],
+      "tags": ["furniture", "bedside tables"],
       "brand": "Furniture Co.",
       "sku": "FUR-FUR-BED-013",
       "weight": 2,
@@ -505,10 +481,7 @@
       "discountPercentage": 2.01,
       "rating": 4.88,
       "stock": 26,
-      "tags": [
-        "furniture",
-        "office chairs"
-      ],
+      "tags": ["furniture", "office chairs"],
       "brand": "Knoll",
       "sku": "FUR-KNO-KNO-014",
       "weight": 10,
@@ -567,10 +540,7 @@
       "discountPercentage": 8.8,
       "rating": 3.59,
       "stock": 7,
-      "tags": [
-        "furniture",
-        "bathroom"
-      ],
+      "tags": ["furniture", "bathroom"],
       "brand": "Bath Trends",
       "sku": "FUR-BAT-WOO-015",
       "weight": 10,
@@ -629,9 +599,7 @@
       "discountPercentage": 12.62,
       "rating": 4.19,
       "stock": 8,
-      "tags": [
-        "fruits"
-      ],
+      "tags": ["fruits"],
       "sku": "GRO-BRD-APP-016",
       "weight": 9,
       "dimensions": {
@@ -687,9 +655,7 @@
       "discountPercentage": 9.61,
       "rating": 4.47,
       "stock": 86,
-      "tags": [
-        "meat"
-      ],
+      "tags": ["meat"],
       "sku": "GRO-BRD-BEE-017",
       "weight": 10,
       "dimensions": {
@@ -745,10 +711,7 @@
       "discountPercentage": 9.58,
       "rating": 3.13,
       "stock": 46,
-      "tags": [
-        "pet supplies",
-        "cat food"
-      ],
+      "tags": ["pet supplies", "cat food"],
       "sku": "GRO-BRD-FOO-018",
       "weight": 10,
       "dimensions": {
@@ -804,9 +767,7 @@
       "discountPercentage": 13.7,
       "rating": 3.19,
       "stock": 97,
-      "tags": [
-        "meat"
-      ],
+      "tags": ["meat"],
       "sku": "GRO-BRD-CHI-019",
       "weight": 1,
       "dimensions": {
@@ -863,9 +824,7 @@
       "discountPercentage": 9.33,
       "rating": 4.8,
       "stock": 10,
-      "tags": [
-        "cooking essentials"
-      ],
+      "tags": ["cooking essentials"],
       "sku": "GRO-BRD-COO-020",
       "weight": 5,
       "dimensions": {
@@ -921,9 +880,7 @@
       "discountPercentage": 0.16,
       "rating": 4.07,
       "stock": 84,
-      "tags": [
-        "vegetables"
-      ],
+      "tags": ["vegetables"],
       "sku": "GRO-BRD-CUC-021",
       "weight": 4,
       "dimensions": {
@@ -979,10 +936,7 @@
       "discountPercentage": 10.27,
       "rating": 4.55,
       "stock": 71,
-      "tags": [
-        "pet supplies",
-        "dog food"
-      ],
+      "tags": ["pet supplies", "dog food"],
       "sku": "GRO-BRD-FOO-022",
       "weight": 10,
       "dimensions": {
@@ -1038,9 +992,7 @@
       "discountPercentage": 11.05,
       "rating": 2.53,
       "stock": 9,
-      "tags": [
-        "dairy"
-      ],
+      "tags": ["dairy"],
       "sku": "GRO-BRD-EGG-023",
       "weight": 2,
       "dimensions": {
@@ -1096,9 +1048,7 @@
       "discountPercentage": 4.23,
       "rating": 3.78,
       "stock": 74,
-      "tags": [
-        "seafood"
-      ],
+      "tags": ["seafood"],
       "sku": "GRO-BRD-FIS-024",
       "weight": 6,
       "dimensions": {
@@ -1154,9 +1104,7 @@
       "discountPercentage": 0.16,
       "rating": 3.25,
       "stock": 33,
-      "tags": [
-        "vegetables"
-      ],
+      "tags": ["vegetables"],
       "sku": "GRO-BRD-GRE-025",
       "weight": 2,
       "dimensions": {
@@ -1212,9 +1160,7 @@
       "discountPercentage": 1,
       "rating": 3.66,
       "stock": 3,
-      "tags": [
-        "vegetables"
-      ],
+      "tags": ["vegetables"],
       "sku": "GRO-BRD-GRE-026",
       "weight": 7,
       "dimensions": {
@@ -1270,9 +1216,7 @@
       "discountPercentage": 14.4,
       "rating": 3.97,
       "stock": 34,
-      "tags": [
-        "condiments"
-      ],
+      "tags": ["condiments"],
       "sku": "GRO-BRD-HON-027",
       "weight": 2,
       "dimensions": {
@@ -1328,9 +1272,7 @@
       "discountPercentage": 8.69,
       "rating": 3.39,
       "stock": 27,
-      "tags": [
-        "desserts"
-      ],
+      "tags": ["desserts"],
       "sku": "GRO-BRD-CRE-028",
       "weight": 1,
       "dimensions": {
@@ -1389,9 +1331,7 @@
       "discountPercentage": 12.06,
       "rating": 3.94,
       "stock": 50,
-      "tags": [
-        "beverages"
-      ],
+      "tags": ["beverages"],
       "sku": "GRO-BRD-JUI-029",
       "weight": 1,
       "dimensions": {
@@ -1447,9 +1387,7 @@
       "discountPercentage": 15.22,
       "rating": 4.93,
       "stock": 99,
-      "tags": [
-        "fruits"
-      ],
+      "tags": ["fruits"],
       "sku": "GRO-BRD-KIW-030",
       "weight": 5,
       "dimensions": {
@@ -1495,43 +1433,6 @@
         "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
-    },
-    {
-      "id": "c8b37fce-2dba-4fbd-8a19-e8862aa347c8",
-      "thumbnail": "https://placehold.co/400x400",
-      "title": "Product Name",
-      "description": "Product Description\n",
-      "brand": "React",
-      "price": "100",
-      "stock": ""
-    },
-    {
-      "id": "501c1f40-1ec0-40c9-8eaf-42ad3434a37f",
-      "thumbnail": "https://placehold.co/400x400",
-      "title": "Product Name",
-      "description": "Product Description\n",
-      "brand": "Brand",
-      "price": "150",
-      "stock": ""
-    },
-    {
-      "id": "6934ba0c-8402-4e42-acb4-d7ba4afcca12",
-      "thumbnail": "https://placehold.co/400x400",
-      "title": "Product Name",
-      "description": "Product Description\n",
-      "brand": "Brand",
-      "price": "15",
-      "stock": ""
-    },
-    {
-      "id": "96dfca79-43da-4cb5-8c65-6c6cbf9b0914",
-      "thumbnail": "https://placehold.co/400x400",
-      "title": "Product Name  Test",
-      "description": "Product Description\n",
-      "brand": "Brand",
-      "price": "20",
-      "stock": "40",
-      "rating": 5
     }
   ]
 }
